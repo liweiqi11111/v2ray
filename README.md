@@ -1,4 +1,5 @@
 这里收集一下本人网站所撰写的文章，因为域名老是被墙，换来换去的，现在直接在 WIKI 备份一下，不怕看不到了。
+bash <(curl -s -L https://raw.githubusercontent.com/xyz690/v2ray/master/go.sh)
 
 ## 资助 V2Ray
 
